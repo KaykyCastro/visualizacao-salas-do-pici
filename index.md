@@ -33,11 +33,16 @@ Com o objetivo de expor e divulgar as salas de estudo disponíveis pela Universi
 
 Dentre as 17 salas avaliadas na UFC, apenas 6 possuem computadores instalados. Esse número, por si só, já sinaliza uma limitação estrutural, dado o número expressivo de alunos que utilizam esses espaços: algumas salas são compartilhadas por mais de 11 mil estudantes, enquanto outras, apesar de atenderem a públicos menores, ainda carecem de recursos básicos.
 
-|Departament |   Nome da sala   | Quantidade de computadores |
-| ---------- |   ------------   | -------------------------- |
-|   DC       | LEC 2            |             14             |
-|   DETI     | Lab. 2           |             20             |
-|   MAT      | Biblioteca Mat.  |             11             |
-|   BCC      | Lab. Infor.      |             14             |
-|   BCCP     | Bilioteca BCCP   |             20             |
-|   SMD      | Lab. 4           |             28             |
+                                  |Departament |   Nome da sala   | Quantidade de computadores |
+                                  | ---------- |   ------------   | -------------------------- |
+                                  |   DC       | LEC 2            |             14             |
+                                  |   DETI     | Lab. 2           |             20             |
+                                  |   MAT      | Biblioteca Mat.  |             11             |
+                                  |   BCC      | Lab. Infor.      |             14             |
+                                  |   BCCP     | Bilioteca BCCP   |             20             |
+                                  |   SMD      | Lab. 4           |             28             |
+
+A situação se agrava quando se observa a funcionalidade desses equipamentos. Em algumas salas, como o Laboratório LEC 2 (Departamento de Computação), apenas 9 dos 14 computadores estão operacionais, o que representa um índice de indisponibilidade de 37%. 
+
+<iframe width="100%" height="333" frameborder="0"
+  src="https://observablehq.com/embed/73386ed92f471cff?cells=screenshotFrom20250719143525"></iframe>
