@@ -1,5 +1,5 @@
-<div style="background-color:#007BFF; color:white; padding:1em; border-radius:6px;">
-  Este é um texto com fundo azul.
+<div style="background-color:##00619a; color:white; padding:1em;">
+  <h1></h1>Mapas das salas de estudo UFC PICI</div>h1>
 </div>
 
 <iframe width="100%" height="1973" frameborder="0"
