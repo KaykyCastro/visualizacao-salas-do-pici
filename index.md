@@ -1,3 +1,5 @@
+remote_theme: "jekyll/minima@1e8a445"
+
 #Mapa das salas de estudo UFC PICI
 
 <iframe width="100%" height="1973" frameborder="0"
