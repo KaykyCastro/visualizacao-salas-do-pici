@@ -5,18 +5,16 @@
 
 Aqui você tem acesso as salas de estudos mapeadas no campus PICI. Além disso, a qualidade de cada sala. Feito pelos alunos da cadeira de **Visualização de Dados** ministrada pela *Prf. Emanuele Santos*, para visualizar os dados de cada sala e apresentar as dificuldades que os alunos possuem enquanto ao material de estudo em comparação com outras universidades públicas do mundo.
 
-<iframe width="100%" height="656" frameborder="0"
-  src="https://observablehq.com/embed/73386ed92f471cff@394?cells=map&api_key=e5c3636c8944aecfd814f255eb89eff78427f85f"></iframe>
+<iframe width="100%" height="656" frameborder="0" src="https://observablehq.com/embed/73386ed92f471cff@394?cells=map&api_key=e5c3636c8944aecfd814f255eb89eff78427f85f"></iframe>
 
 # **Visualização de dados sobre as Salas de Estudo da UFC PICI.**
 
-<iframe width="100%" height="1375" frameborder="0"
-  src="https://observablehq.com/embed/73386ed92f471cff@394?cells=course_selector_ui%2Cdashboard&api_key=e5c3636c8944aecfd814f255eb89eff78427f85f"></iframe>
+<iframe width="100%" height="1375" frameborder="0" src="https://observablehq.com/embed/73386ed92f471cff@394?cells=course_selector_ui%2Cdashboard&api_key=e5c3636c8944aecfd814f255eb89eff78427f85f"></iframe>
 
 # Ranking das melhores:
 
 <iframe width="100%" height="542" frameborder="0"
-  src="https://observablehq.com/embed/73386ed92f471cff@394?cells=viewof+rankingSalasPonderado"></iframe>
+  src="https://observablehq.com/embed/73386ed92f471cff@394?cells=viewof+rankingSalasPonderado&api_key=e5c3636c8944aecfd814f255eb89eff78427f85f"></iframe>
   
 # **Constatações do estudo**
 
@@ -44,7 +42,7 @@ Com o objetivo de expor e divulgar as salas de estudo disponíveis pela Universi
 Dentre as 17 salas avaliadas na UFC, apenas 6 possuem computadores instalados. Esse número, por si só, já sinaliza uma limitação estrutural, dado o número expressivo de alunos que utilizam esses espaços: algumas salas são compartilhadas por mais de 11 mil estudantes, enquanto outras, apesar de atenderem a públicos menores, ainda carecem de recursos básicos.
 
 <iframe width="100%" height="243" frameborder="0"
-  src="https://observablehq.com/embed/73386ed92f471cff@381?cells=viewof+graficoComputadores"></iframe>
+  src="https://observablehq.com/embed/73386ed92f471cff@394?cells=viewof+graficoComputadores&api_key=e5c3636c8944aecfd814f255eb89eff78427f85f"></iframe>
 
 |Departament |   Nome da sala   | Quantidade de computadores |
 | ---------- |   ------------   | -------------------------- |
@@ -58,7 +56,7 @@ Dentre as 17 salas avaliadas na UFC, apenas 6 possuem computadores instalados. E
 A situação se agrava quando se observa a funcionalidade desses equipamentos. Em algumas salas, como o Laboratório LEC 2 (Departamento de Computação), apenas 9 dos 14 computadores estão operacionais, o que representa um índice de indisponibilidade de 37%. 
 
 <iframe width="100%" height="333" frameborder="0"
-  src="https://observablehq.com/embed/73386ed92f471cff?cells=screenshotFrom20250719143525"></iframe>
+  src="https://observablehq.com/embed/73386ed92f471cff@394?cells=screenshotFrom20250719143525&api_key=e5c3636c8944aecfd814f255eb89eff78427f85f"></iframe>
 
 Essa deficiência técnica implica diretamente na capacidade de atendimento da sala e impacta negativamente a experiência do estudante, sobretudo daqueles que não possuem computador pessoal. Em contrapartida, poucas salas — como o Laboratório do BCCP e o Laboratório de Ensino 2 do DETI — apresentam todos os equipamentos funcionais, o que demonstra uma falta de uniformidade na manutenção e gestão da infraestrutura tecnológica.
 
@@ -83,7 +81,7 @@ Além disso, observações registradas nos dados indicam que em alguns espaços 
 A Masaryk University se destaca pela ampla oferta de computadores: são 455 máquinas distribuídas em 7 salas, com destaques para ambientes como a Sala de Estudo de Informática (115 computadores) e a Biblioteca MUNI SUKB (96 computadores). Já a UFC disponibiliza apenas 94 computadores em 6 salas, dos quais apenas 87 estão operacionais. A relação média de computadores por sala na Masaryk é superior a 65, enquanto na UFC é inferior a 15.
 
 <iframe width="100%" height="459" frameborder="0"
-  src="https://observablehq.com/embed/73386ed92f471cff@394?cells=screenshotFrom20250719145823"></iframe>
+  src="https://observablehq.com/embed/73386ed92f471cff@394?cells=screenshotFrom20250719145823&api_key=e5c3636c8944aecfd814f255eb89eff78427f85f"></iframe>
 
 #### 2 Acessibilidade e Política de Uso
 
