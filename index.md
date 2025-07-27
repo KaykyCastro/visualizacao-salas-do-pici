@@ -5,8 +5,13 @@
 
 Aqui você tem acesso as salas de estudos mapeadas no campus PICI. Além disso, a qualidade de cada sala. Feito pelos alunos da cadeira de **Visualização de Dados** ministrada pela *Prf. Emanuele Santos*, para visualizar os dados de cada sala e apresentar as dificuldades que os alunos possuem enquanto ao material de estudo em comparação com outras universidades públicas do mundo.
 
-<iframe width="100%" height="533" frameborder="0"
-  src="https://observablehq.com/embed/73386ed92f471cff@394?cells=map"></iframe>
+<iframe width="100%" height="656" frameborder="0"
+  src="https://observablehq.com/embed/73386ed92f471cff@394?cells=map&api_key=e5c3636c8944aecfd814f255eb89eff78427f85f"></iframe>
+
+# **Visualização de dados sobre as Salas de Estudo da UFC PICI.**
+
+<iframe width="100%" height="1375" frameborder="0"
+  src="https://observablehq.com/embed/73386ed92f471cff@394?cells=course_selector_ui%2Cdashboard&api_key=e5c3636c8944aecfd814f255eb89eff78427f85f"></iframe>
 
 # Ranking das melhores:
 
