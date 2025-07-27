@@ -100,18 +100,6 @@ Os estudantes da Masaryk, em sua maioria, têm acesso a notebooks pessoais, dada
 
 A análise revela uma disparidade significativa entre as duas universidades. A Masaryk University oferece uma infraestrutura tecnológica mais ampla, acessível e funcional, refletindo uma política institucional de inclusão digital e suporte ao aprendizado. A UFC, por sua vez, enfrenta desafios estruturais, de manutenção e de segurança que limitam o acesso igualitário aos recursos educacionais.
 
-Para que a UFC se aproxime dos padrões internacionais de qualidade, são recomendadas medidas como:
-
-Investimento na ampliação e renovação do parque tecnológico;
-
-Abertura de espaços de uso coletivo interdepartamental;
-
-Políticas de segurança institucional e apoio ao uso de dispositivos pessoais;
-
-Manutenção preventiva e gestão participativa da infraestrutura.
-
-A superação dessas barreiras é essencial para garantir a equidade no acesso à educação superior de qualidade.
-
 # Referências
 
 *PowerBi de dados da UFC*:https://app.powerbi.com/view?r=eyJrIjoiODBlZGFlMjctYjAwNi00ZTAyLWE2NjktNmI5NWZkNjg2MTE1IiwidCI6ImI1OTFhZTU0LTMzYzItNDU4OS1iZTY2LTkwMjFhNDE5NmM3YyJ9
